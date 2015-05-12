@@ -4,5 +4,5 @@ This is official site for ToolCon 2015
 ## LICENSE
 MIT LICENSE
 
-## AUTHOR
+## AUTHORS
 ToolCon
